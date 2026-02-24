@@ -36,7 +36,7 @@ Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Live Demo
 
-https://your-app-link.streamlit.app
+https://customer-churn-prediction-system-bkpv5nokrikhg42xz2erjj.streamlit.app/
 
 ## Project Structure
 
@@ -57,5 +57,5 @@ customer-churn-prediction/
 
 ## Author
 
-Your Name  
-Edunet Foundation IBM AI/ML Internship — 2025
+Nidhi D B  
+Edunet Foundation IBM AI/ML Internship — 2026
